@@ -21,7 +21,7 @@ Passionate mobile app and ERP developer with strong expertise in **Flutter** and
 
 ---
 
-### 📲 My Apps on Google Play  
+### 📲 My work Apps on Google Play  
 
 - [Barter App - تطبيق المقايضة](https://play.google.com/store/apps/details?id=com.molhimah.swap&pcampaignid=web_share)  
 - [مزاد لايف - Auction live App](https://play.google.com/store/apps/details?id=com.mulhmah_auctionlive&pcampaignid=web_share)  
@@ -31,7 +31,7 @@ Passionate mobile app and ERP developer with strong expertise in **Flutter** and
 
 ---
 
-### 🌐 My Website  
+### 🌐 My work Website  
 
 - [مزادلي - Mzadly.com](https://mzadly.com)  
 
