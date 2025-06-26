@@ -1,7 +1,7 @@
  # 👨‍💻 Omar Al-Odainy  
 **Mobile App Developer | Flutter & Odoo Developer**  
 📍 Riyadh, Saudi Arabia  
-📧 omarrghalibb@gmail.com | 📱 +966-558539717  
+📧 oooomar123450@gmail.com | 📱 +966-558539717  
 [LinkedIn](https://linkedin.com/in/omar-hamid-288385235) | [GitHub](https://github.com/oooomar896)  
 
 ---
