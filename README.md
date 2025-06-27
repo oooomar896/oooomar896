@@ -3,8 +3,12 @@
 # 👨‍💻 عمر حميد العديني | **Flutter & Odoo Developer | خبير حلول التطبيقات والأنظمة المحاسبية**  
 📍 الرياض - المملكة العربية السعودية | Riyadh, Saudi Arabia  
 📧 oooomar123450@gmail.com  
+
 📱 +966-558539717  
-[LinkedIn](https://linkedin.com/in/omar-hamid-288385235) | [GitHub](https://github.com/oooomar896)  
+
+[LinkedIn](https://linkedin.com/in/omar-hamid-288385235) |
+
+ [GitHub](https://github.com/oooomar896)  
 
 ---
 
@@ -24,10 +28,10 @@
 
 ---
 
-### 📲 تطبيقاتي المنشورة على Google Play  
+### 📲 التطبيقات المنشورة على Google Play  
 
-- [تطبيق المقايضة - Barter App](https://play.google.com/store/apps/details?id=com.molhimah.swap)  
-- [مزاد لايف - Auction Live](https://play.google.com/store/apps/details?id=com.mulhmah_auctionlive)  
+- [تطبيق المقايضة - Swap App](https://play.google.com/store/apps/details?id=com.molhimah.swap)  
+- [مزادات لايف - Auction Live](https://play.google.com/store/apps/details?id=com.mulhmah_auctionlive)  
 - [التطبيق الخيري - Charity App](https://play.google.com/store/apps/details?id=com.charity_show)  
 
 ---
@@ -41,7 +45,7 @@
 
 ---
 
-### 🌐 مواقعي ولوحات التحكم
+### 🌐 المواقع ولوحات التحكم الذي عملت عليها 
 
 - [مزادلي - Mzadly.com](https://mzadly.com) *(منصة مزادات إلكترونية)*  
 - [ملهمة العقارية - Molhimah.sa](https://molhimah.sa) *(موقع عقاري احترافي)*  
@@ -72,5 +76,5 @@
 دائمًا منفتح على التعاون، المشاريع المستقلة، أو حتى تبادل الخبرات التقنية. لا تتردد في التواصل معي:  
 [LinkedIn](https://linkedin.com/in/omar-hamid-288385235) | [GitHub](https://github.com/oooomar896) | 📧 [oooomar123450@gmail.com](mailto:oooomar123450@gmail.com)  
 
-### رقم الجوال : [00966558539717]
+### رقم الجوال :[00966558539717]
 
