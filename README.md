@@ -39,6 +39,10 @@ Passionate mobile app and ERP developer with strong expertise in **Flutter** and
 
 - [مزادلي - Mzadly.com](https://mzadly.com)  
 - [ملهمة العقارية - Molhimah.sa](https://molhimah.sa)
+- [لوحة تحكم ويب لتطبيق المقايضة - Dashboard Swap](https://github.com/oooomar896/-dashboard-swap)  
+- [لوحة تحكم ويب لتطبيق مزادات لايف - Dashboard Auction Live](https://github.com/oooomar896/-dashboard-auction-live)  
+
+---
 
 ---
 
