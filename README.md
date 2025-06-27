@@ -78,8 +78,6 @@ Passionate developer specializing in **mobile applications (Flutter)** and **ERP
 
 Always open to collaboration, freelance projects, or just tech discussions. Feel free to reach out!  
 [LinkedIn](https://linkedin.com/in/omar-hamid-288385235) | [GitHub](https://github.com/oooomar896) | 📧 [oooomar123450@gmail.com](mailto:oooomar123450@gmail.com)  
-
+[Phone](00966558539717)
 ---
-
-إذا حبيت أجهز هذا الملف .md جاهز للتنزيل، أقدر أرسله مباشرة. تحب أجهزه كملف الآن؟ ✅
 
