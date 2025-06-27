@@ -1,5 +1,3 @@
-أكيد! إليك الكود الكامل والمنسق لملف README.md الخاص بك بعد جميع التعديلات والاقتراحات التي ذكرتها، بشكل احترافي وجاهز للنسخ:
-
 # 👨‍💻 Omar Hamid Al-Odainy  
 **Flutter & Odoo Developer | Mobile & ERP Solutions Expert**  
 📍 Riyadh, Saudi Arabia  
