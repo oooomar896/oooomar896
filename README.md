@@ -1,8 +1,10 @@
 :
 
 # 👨‍💻 عمر حميد العديني
-**Flutter & Odoo Developer 
-خبير حلول التطبيقات والأنظمة المحاسبية**  
+**Flutter & Odoo Developer**
+
+**خبير حلول التطبيقات والأنظمة المحاسبية**  
+
 📍 الرياض - المملكة العربية السعودية | Riyadh, Saudi Arabia  
 📧 oooomar123450@gmail.com  
 
