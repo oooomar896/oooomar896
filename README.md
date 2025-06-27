@@ -29,6 +29,7 @@ Passionate mobile app and ERP developer with strong expertise in **Flutter** and
 - [Coffee app](https://github.com/oooomar896/coffee_app)
 - [Electrical Store app](https://github.com/oooomar896/electrical_store_app)
 - [Calculator app](https://github.com/oooomar896/Calculter)
+- [players app](https://github.com/oooomar896/players))
 
 *More apps coming soon...*
 
@@ -38,6 +39,22 @@ Passionate mobile app and ERP developer with strong expertise in **Flutter** and
 
 - [مزادلي - Mzadly.com](https://mzadly.com)  
 - [ملهمة العقارية - Molhimah.sa](https://molhimah.sa)
+
+---
+
+### 🌐 some My work modules Odoo  
+
+- [إدارة الأملاك - Real Estate Management](https://github.com/oooomar896/module-Real-state)  
+  A complete real estate management solution for Odoo to handle properties, rental contracts, and tenants.
+
+- [حجز قاعات الاجتماعات - Meeting Room Booking](https://github.com/oooomar896/module-room-bookung)  
+  An intuitive room reservation system for companies to manage meeting spaces and avoid scheduling conflicts.
+
+- [إدارة الموارد البشرية - HR Management](https://github.com/oooomar896/mangemen_HR)  
+  A comprehensive HR management module to manage employees, attendance, leave, and more within Odoo.
+
+- [موقع المزادات - Auction Website](https://github.com/oooomar896/Website_Auction_odoo)  
+  A public-facing auction website integrated with Odoo for managing auctions, items, bids, and participants.
 
 ---
 
