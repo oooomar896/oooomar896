@@ -25,7 +25,10 @@ Passionate mobile app and ERP developer with strong expertise in **Flutter** and
 
 - [Barter App - تطبيق المقايضة](https://play.google.com/store/apps/details?id=com.molhimah.swap&pcampaignid=web_share)  
 - [مزاد لايف - Auction live App](https://play.google.com/store/apps/details?id=com.mulhmah_auctionlive&pcampaignid=web_share)  
-- [التطبيق الخيري](https://play.google.com/store/apps/details?id=com.charity_show&pcampaignid=web_share)  
+- [التطبيق الخيري](https://play.google.com/store/apps/details?id=com.charity_show&pcampaignid=web_share)
+- [Coffee app](https://github.com/oooomar896/coffee_app)
+- [Electrical Store app](https://github.com/oooomar896/electrical_store_app)
+- [Calculator app](https://github.com/oooomar896/Calculter)
 
 *More apps coming soon...*
 
