@@ -1,4 +1,4 @@
- # 👨‍💻 Omar Al-Odainy  
+ # 👨‍💻 Omar Hamid Al-Odainy  
 **Mobile App Developer | Flutter & Odoo Developer**  
 📍 Riyadh, Saudi Arabia  
 📧 oooomar123450@gmail.com | 
