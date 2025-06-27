@@ -46,7 +46,7 @@
 - [تطبيق متجر الكهرباء - Electrical Store App](https://github.com/oooomar896/electrical_store_app)  
 - [تطبيق الآلة الحاسبة - Calculator App](https://github.com/oooomar896/Calculter)  
 - [تطبيق اللاعبين - Players App](https://github.com/oooomar896/players)  
-- [تطبيق الملاحظات - Players App](https://github.com/oooomar896/note2)  
+- [تطبيق الملاحظات - Note App](https://github.com/oooomar896/note2)  
 
 ---
 
