@@ -1,81 +1,115 @@
-# 👨‍💻 Omar Hamid Al-Odainy  
-**Flutter & Odoo Developer | Mobile & ERP Solutions Expert**  
-📍 Riyadh, Saudi Arabia  
-📧 oooomar123450@gmail.com |  
-📱 +966-558539717  
-[LinkedIn](https://linkedin.com/in/omar-hamid-288385235) | [GitHub](https://github.com/oooomar896)  
+أكيد، هذه نسخة معدّلة للبيانات بمزيج احترافي من العربي والإنجليزي، مع الحفاظ على التنسيق الجميل:
+
 
 ---
 
-### 🚀 About Me  
+👨‍💻 عمر حامد العضيني | Flutter & Odoo Developer | خبير حلول التطبيقات والأنظمة المحاسبية
 
-Passionate developer specializing in **mobile applications (Flutter)** and **ERP systems (Odoo)**. I help businesses build efficient, scalable, and user-friendly software solutions. With a focus on clean code, modular architecture, and solving real-world problems, I enjoy crafting apps and ERP modules that make a tangible impact.
+📍 الرياض - المملكة العربية السعودية | Riyadh, Saudi Arabia
+📧 oooomar123450@gmail.com
+📱 +966-558539717
+LinkedIn | GitHub
 
----
-
-### 🛠️ Tech Stack  
-
-- **Mobile Development:** Flutter (Android & iOS)  
-- **ERP Development:** Odoo (Custom Modules, Workflow Automation)  
-- **Backend:** Python, PHP, Firebase  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Database:** PostgreSQL, MySQL  
 
 ---
 
-### 📲 My Published Apps on Google Play  
+🚀 About Me | نبذة عني
 
-- [Barter App - تطبيق المقايضة](https://play.google.com/store/apps/details?id=com.molhimah.swap)  
-- [Auction Live - مزاد لايف](https://play.google.com/store/apps/details?id=com.mulhmah_auctionlive)  
-- [Charity App - التطبيق الخيري](https://play.google.com/store/apps/details?id=com.charity_show)  
+مطور شغوف بخبرة في تطوير التطبيقات الذكية باستخدام Flutter وأنظمة إدارة المؤسسات ERP باستخدام Odoo. أساعد الشركات في بناء حلول برمجية احترافية، سهلة الاستخدام وقابلة للتطوير. أؤمن بأهمية الكود النظيف، والهندسة المعمارية المنظمة، وحل المشكلات الواقعية من خلال البرمجيات.
 
----
-
-### 💻 Open Source Apps on GitHub  
-
-- [Coffee App (UI/Animation Concept)](https://github.com/oooomar896/coffee_app)  
-- [Electrical Store App](https://github.com/oooomar896/electrical_store_app)  
-- [Calculator App](https://github.com/oooomar896/Calculter)  
-- [Players App](https://github.com/oooomar896/players)  
 
 ---
 
-### 🌐 My Websites & Admin Panels  
+🛠️ Tech Stack | التقنيات التي أعمل بها
 
-- [مزادلي - Mzadly.com](https://mzadly.com) *(Auction Platform Website)*  
-- [ملهمة العقارية - Molhimah.sa](https://molhimah.sa) *(Real Estate Website)*  
-- [Dashboard Swap - لوحة تحكم تطبيق المقايضة](https://github.com/oooomar896/-dashboard-swap)  
-- [Dashboard Auction Live - لوحة تحكم تطبيق مزادات لايف](https://github.com/oooomar896/-dashboard-auction-live)  
+تطوير التطبيقات: Flutter (Android & iOS)
 
----
+أنظمة ERP: Odoo (برمجة الموديولات - أتمتة العمليات)
 
-### ⚙️ Some of My Custom Odoo Modules  
+الخلفية البرمجية: Python, PHP, Firebase
 
-- [إدارة الأملاك - Real Estate Management](https://github.com/oooomar896/module-Real-state)  
-  A complete real estate management solution for Odoo to handle properties, rental contracts, and tenants.
+الواجهات الأمامية: HTML, CSS, JavaScript
 
-- [حجز قاعات الاجتماعات - Meeting Room Booking](https://github.com/oooomar896/module-room-bookung)  
-  An intuitive room reservation system for companies to manage meeting spaces and avoid scheduling conflicts.
+قواعد البيانات: PostgreSQL, MySQL
 
-- [إدارة الموارد البشرية - HR Management](https://github.com/oooomar896/mangemen_HR)  
-  A comprehensive HR management module to manage employees, attendance, leave, and more within Odoo.
 
-- [موقع المزادات - Auction Website](https://github.com/oooomar896/Website_Auction_odoo)  
-  A public-facing auction website integrated with Odoo for managing auctions, items, bids, and participants.
 
 ---
 
-### 📈 GitHub Stats  
+📲 تطبيقاتي المنشورة على Google Play
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oooomar896&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooomar896&layout=compact&theme=radical)  
+تطبيق المقايضة - Barter App
+
+مزاد لايف - Auction Live
+
+التطبيق الخيري - Charity App
+
+
 
 ---
 
-### 💬 Let's Connect  
+💻 تطبيقاتي مفتوحة المصدر على GitHub
 
-Always open to collaboration, freelance projects, or just tech discussions. Feel free to reach out!  
-[LinkedIn](https://linkedin.com/in/omar-hamid-288385235) | [GitHub](https://github.com/oooomar896) | 📧 [oooomar123450@gmail.com](mailto:oooomar123450@gmail.com)  
-[Phone](00966558539717)
+تطبيق القهوة - Coffee App (UI/Animation Concept)
+
+تطبيق متجر الكهرباء - Electrical Store App
+
+تطبيق الآلة الحاسبة - Calculator App
+
+تطبيق اللاعبين - Players App
+
+
+
 ---
+
+🌐 مواقعي ولوحات التحكم | My Websites & Dashboards
+
+مزادلي - Mzadly.com (منصة مزادات إلكترونية)
+
+ملهمة العقارية - Molhimah.sa (موقع عقاري احترافي)
+
+لوحة تحكم تطبيق المقايضة - Dashboard Swap
+
+لوحة تحكم مزاد لايف - Dashboard Auction Live
+
+
+
+---
+
+⚙️ بعض من موديولاتي المخصصة لـ Odoo
+
+إدارة الأملاك - Real Estate Management
+نظام متكامل لإدارة العقارات والعقود والمستأجرين داخل Odoo.
+
+حجز قاعات الاجتماعات - Meeting Room Booking
+نظام مرن لحجز القاعات داخل الشركات لتجنب تعارض المواعيد.
+
+إدارة الموارد البشرية - HR Management
+حل شامل لإدارة الموظفين، الحضور، الإجازات والمزيد عبر Odoo.
+
+موقع المزادات - Auction Website
+منصة مزادات إلكترونية مرتبطة مباشرة بـ Odoo لإدارة المزادات والمشاركين.
+
+
+
+---
+
+📈 إحصائياتي على GitHub
+
+
+
+
+
+---
+
+💬 تواصل معي | Let's Connect
+
+دائمًا منفتح على التعاون، المشاريع المستقلة، أو حتى تبادل الخبرات التقنية. لا تتردد في التواصل معي:
+LinkedIn | GitHub | 📧 oooomar123450@gmail.com
+📱 رقم الجوال
+
+
+---
+
+إذا حبيت أجهزها كملف README.md جاهز للنسخ، أرسله لك الآن؟ ✅
 
