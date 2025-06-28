@@ -1,32 +1,30 @@
-:
 
-# 👨‍💻 عمر حميد العديني
-**Flutter & Odoo Developer**
+# 👨‍💻 عمر حميد العديني  
+**Flutter & Odoo Developer**  
+**خبير حلول التطبيقات والأنظمة المحاسبية**
 
-**خبير حلول التطبيقات والأنظمة المحاسبية**  
-
-📍 الرياض - المملكة العربية السعودية | Riyadh, Saudi Arabia  
+📍 **الرياض - المملكة العربية السعودية**  
 📧 oooomar123450@gmail.com  
-
-📱 +966-558539717  
-
-[LinkedIn](https://linkedin.com/in/omar-hamid-288385235) |
-
- [GitHub](https://github.com/oooomar896)  
+📱 +966-55-853-9717  
+🔗 [LinkedIn](https://linkedin.com/in/omar-hamid-288385235) | [GitHub](https://github.com/oooomar896)
 
 ---
 
-### 🚀 About Me | نبذة عني  
+### 🚀 نبذة عني | About Me  
 
-مطور شغوف بخبرة في **تطوير التطبيقات الذكية باستخدام Flutter** و**أنظمة إدارة المؤسسات ERP باستخدام Odoo**. أساعد الشركات في بناء حلول برمجية احترافية، سهلة الاستخدام وقابلة للتطوير. أؤمن بأهمية الكود النظيف، والهندسة المعمارية المنظمة، وحل المشكلات الواقعية من خلال البرمجيات، الخبره في كتابة جميع المهام في اوبسيديان وتنظيم اعمال الفريق، الخبره في إدارة المشاريع المولكه و متابعتها، الإلتزام ب العمل فوق اي ظروف .
+مطور شغوف ومتخصص في **تطوير التطبيقات باستخدام Flutter** و**بناء أنظمة ERP متكاملة عبر Odoo**. أساعد المؤسسات في بناء حلول تقنية عالية الجودة، سهلة الاستخدام، وقابلة للتطوير.  
+أتميز بالكود النظيف، والهندسة البرمجية المنظمة، واحترافية إدارة المشاريع والفرق، مع إيمان عميق بأهمية الإبداع والانضباط في بيئات العمل الديناميكية.
+
+> 📌 خبرة قوية في تنظيم فرق العمل عبر أدوات مثل Obsidian  
+> 📌 متابعة دقيقة لمهام المشاريع الموكلة والالتزام تحت كافة الظروف
 
 ---
 
-### 🛠️ Tech Stack | التقنيات التي أعمل بها  
+### 🛠️ المهارات التقنية | Tech Stack  
 
 - **تطوير التطبيقات:** Flutter (Android & iOS)  
-- **أنظمة ERP:** Odoo (برمجة الموديولات - أتمتة العمليات)  
-- **الخلفية البرمجية:** Python, PHP, Firebase  
+- **أنظمة المؤسسات ERP:** Odoo (برمجة موديولات، الأتمتة)  
+- **البرمجة الخلفية:** Python, PHP, Firebase  
 - **الواجهات الأمامية:** HTML, CSS, JavaScript  
 - **قواعد البيانات:** PostgreSQL, MySQL  
 
@@ -34,52 +32,50 @@
 
 ### 📲 التطبيقات المنشورة على Google Play  
 
-- [تطبيق المقايضة - Swap App](https://play.google.com/store/apps/details?id=com.molhimah.swap)  
-- [مزادات لايف - Auction Live](https://play.google.com/store/apps/details?id=com.mulhmah_auctionlive)  
-- [التطبيق الخيري - Charity App](https://play.google.com/store/apps/details?id=com.charity_show)  
+- 🔗 [تطبيق المقايضة - Swap App](https://play.google.com/store/apps/details?id=com.molhimah.swap)  
+- 🔗 [مزادات لايف - Auction Live](https://play.google.com/store/apps/details?id=com.mulhmah_auctionlive)  
+- 🔗 [التطبيق الخيري - Charity App](https://play.google.com/store/apps/details?id=com.charity_show)  
 
 ---
 
-### 💻 تطبيقاتي مفتوحة المصدر على GitHub  
+### 💻 تطبيقاتي مفتوحة المصدر | Open Source Projects  
 
-- [تطبيق القهوة - Coffee App (UI/Animation Concept)](https://github.com/oooomar896/coffee_app)  
-- [تطبيق متجر الكهرباء - Electrical Store App](https://github.com/oooomar896/electrical_store_app)  
-- [تطبيق الآلة الحاسبة - Calculator App](https://github.com/oooomar896/Calculter)  
-- [تطبيق اللاعبين - Players App](https://github.com/oooomar896/players)  
-- [تطبيق الملاحظات - Note App](https://github.com/oooomar896/note2)  
-
----
-
-### 🌐 المواقع ولوحات التحكم الذي عملت عليها 
-
-- [مزادلي - Mzadly.com](https://mzadly.com) *(منصة مزادات إلكترونية)*  
-- [ملهمة العقارية - Molhimah.sa](https://molhimah.sa) *(موقع عقاري احترافي)*  
-- [لوحة تحكم تطبيق المقايضة - Dashboard Swap](https://github.com/oooomar896/-dashboard-swap)  
-- [لوحة تحكم مزاد لايف - Dashboard Auction Live](https://github.com/oooomar896/-dashboard-auction-live)  
+- 🔧 [تطبيق القهوة (UI/Animation)](https://github.com/oooomar896/coffee_app)  
+- 🔧 [متجر الكهرباء](https://github.com/oooomar896/electrical_store_app)  
+- 🔧 [الآلة الحاسبة](https://github.com/oooomar896/Calculter)  
+- 🔧 [تطبيق اللاعبين](https://github.com/oooomar896/players)  
+- 🔧 [تطبيق الملاحظات](https://github.com/oooomar896/note2)  
 
 ---
 
-### ⚙️ بعض من موديولاتي المخصصة لـ Odoo  
+### 🌐 المواقع ولوحات التحكم  
 
-- [إدارة الأملاك - Real Estate Management](https://github.com/oooomar896/module-Real-state)  
-  نظام متكامل لإدارة العقارات والعقود والمستأجرين داخل Odoo.  
-
-- [حجز قاعات الاجتماعات - Meeting Room Booking](https://github.com/oooomar896/module-room-bookung)  
-  نظام مرن لحجز القاعات داخل الشركات لتجنب تعارض المواعيد.  
-
-- [إدارة الموارد البشرية - HR Management](https://github.com/oooomar896/mangemen_HR)  
-  حل شامل لإدارة الموظفين، الحضور، الإجازات والمزيد عبر Odoo.  
-
-- [موقع المزادات - Auction Website](https://github.com/oooomar896/Website_Auction_odoo)  
-  منصة مزادات إلكترونية مرتبطة مباشرة بـ Odoo لإدارة المزادات والمشاركين.  
-
+- 🌍 [مزادلي - Mzadly.com](https://mzadly.com) *(منصة مزادات إلكترونية)*  
+- 🌍 [ملهمة العقارية - Molhimah.sa](https://molhimah.sa) *(موقع عقاري احترافي)*  
+- 🖥️ [لوحة تحكم تطبيق المقايضة](https://github.com/oooomar896/-dashboard-swap)  
+- 🖥️ [لوحة تحكم مزاد لايف](https://github.com/oooomar896/-dashboard-auction-live)  
 
 ---
 
-### 💬 تواصل معي 
+### ⚙️ موديولات Odoo المخصصة  
 
-دائمًا منفتح على التعاون، المشاريع المستقلة، أو حتى تبادل الخبرات التقنية. لا تتردد في التواصل معي:  
-[LinkedIn](https://linkedin.com/in/omar-hamid-288385235) | [GitHub](https://github.com/oooomar896) | 📧 [oooomar123450@gmail.com](mailto:oooomar123450@gmail.com)  
+- 🏢 [نظام إدارة الأملاك](https://github.com/oooomar896/module-Real-state)  
+  لإدارة العقارات، العقود، والمستأجرين  
 
-### رقم الجوال :[00966558539717]
+- 🏢 [نظام حجز القاعات](https://github.com/oooomar896/module-room-bookung)  
+  لحجز قاعات الاجتماعات مع تقويم وجدولة دقيقة  
 
+- 👨‍💼 [نظام إدارة الموارد البشرية](https://github.com/oooomar896/mangemen_HR)  
+  لإدارة الموظفين، الحضور، الإجازات، والمزيد  
+
+- 💰 [منصة المزادات](https://github.com/oooomar896/Website_Auction_odoo)  
+  ربط مباشر بين موقع المزادات ونظام Odoo  
+
+---
+
+### 💬 تواصل معي  
+
+مرحبًا بكل فرص التعاون، المشاريع الجديدة، أو تبادل الخبرات 👋  
+📧 oooomar123450@gmail.com  
+📞 +966-558539717  
+🔗 [LinkedIn](https://linkedin.com/in/omar-hamid-288385235) | [GitHub](https://github.com/oooomar896)
