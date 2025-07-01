@@ -51,7 +51,7 @@
 ### 🌐 المواقع ولوحات التحكم  
 
 - 🌍 [مزادلي - Mzadly.com](https://mzadly.com) *(منصة مزادات إلكترونية)*
-- 🌍 [مزادلي Api ]([https://mzadly.com](https://github.com/oooomar896/Api_auction)) *(منصة POST AMD GET ل المزادات إلكترونية)*  
+- 🌍 [مزادلي Api ](https://github.com/oooomar896/Api_auction)) *(منصة POST AMD GET ل المزادات إلكترونية)*  
 - 🌍 [ملهمة العقارية - Molhimah.sa](https://molhimah.sa) *(موقع عقاري احترافي)*  
 - 🖥️ [لوحة تحكم تطبيق المقايضة](https://github.com/oooomar896/-dashboard-swap)  
 - 🖥️ [لوحة تحكم مزاد لايف](https://github.com/oooomar896/-dashboard-auction-live)  
