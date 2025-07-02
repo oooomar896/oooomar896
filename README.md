@@ -72,6 +72,10 @@
 - 💰 [منصة المزادات](https://github.com/oooomar896/Website_Auction_odoo)  
   ربط مباشر بين موقع المزادات ونظام Odoo  
 
+
+- 💰 [منصة المزادات- api](https://github.com/oooomar896/api_get-_or_post_data)  
+  ربط pi  مباشر بين موقع المزادات ونظام Odoo  
+
 ---
 
 ### 💬 تواصل معي  
