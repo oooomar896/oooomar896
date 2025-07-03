@@ -62,6 +62,9 @@
   ربط pi  مباشر بين موقع المزادات ونظام Odoo
 - 🌐 [مديول استخراج بيانات السيرفر - HOST ](https://github.com/oooomar896/Module-get-data-from-Db-to-view-code-html/tree/main)  
   استخراج بيانات اي سيرفر ب استخدام كل منip/host, ssh port, username, passWORD
+- 🌐 [مديول استخراج بيانات - db odoo localhost ](https://github.com/oooomar896/Module-get-data-from-db-odoo)  
+  استخراج بيانات db odoo localhost
+
 
 ---
 ### 💬 تواصل معي  
