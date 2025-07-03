@@ -29,57 +29,42 @@
 - **قواعد البيانات:** PostgreSQL, MySQL  
 
 ---
-
 ### 📲 التطبيقات المنشورة على Google Play  
 
 - 🔗 [تطبيق المقايضة - Swap App](https://play.google.com/store/apps/details?id=com.molhimah.swap)  
 - 🔗 [مزادات لايف - Auction Live](https://play.google.com/store/apps/details?id=com.mulhmah_auctionlive)  
 - 🔗 [التطبيق الخيري - Charity App](https://play.google.com/store/apps/details?id=com.charity_show)  
-
 ---
-
 ### 💻 تطبيقاتي مفتوحة المصدر | Open Source Projects  
-
 - 🔧 [تطبيق القهوة (UI/Animation)](https://github.com/oooomar896/coffee_app)  
 - 🔧 [متجر الكهرباء](https://github.com/oooomar896/electrical_store_app)  
 - 🔧 [الآلة الحاسبة](https://github.com/oooomar896/Calculter)  
 - 🔧 [تطبيق اللاعبين](https://github.com/oooomar896/players)  
 - 🔧 [تطبيق الملاحظات](https://github.com/oooomar896/note2)  
-
 ---
-
 ### 🌐 المواقع ولوحات التحكم  
-
 - 🌍 [مزادلي - Mzadly.com](https://mzadly.com) *(منصة مزادات إلكترونية)*
 - 🌍 [مزادلي Api ](https://github.com/oooomar896/Api_auction)) *(منصة POST AMD GET ل المزادات إلكترونية)*  
 - 🌍 [ملهمة العقارية - Molhimah.sa](https://molhimah.sa) *(موقع عقاري احترافي)*  
 - 🖥️ [لوحة تحكم تطبيق المقايضة](https://github.com/oooomar896/-dashboard-swap)  
 - 🖥️ [لوحة تحكم مزاد لايف](https://github.com/oooomar896/-dashboard-auction-live)  
-
 ---
-
 ### ⚙️ موديولات Odoo المخصصة  
-
 - 🏢 [نظام إدارة الأملاك](https://github.com/oooomar896/module-Real-state)  
   لإدارة العقارات، العقود، والمستأجرين  
-
 - 🏢 [نظام حجز القاعات](https://github.com/oooomar896/module-room-bookung)  
   لحجز قاعات الاجتماعات مع تقويم وجدولة دقيقة  
-
 - 👨‍💼 [نظام إدارة الموارد البشرية](https://github.com/oooomar896/mangemen_HR)  
   لإدارة الموظفين، الحضور، الإجازات، والمزيد  
-
 - 💰 [منصة المزادات](https://github.com/oooomar896/Website_Auction_odoo)  
   ربط مباشر بين موقع المزادات ونظام Odoo  
-
-
 - 💰 [منصة المزادات- api](https://github.com/oooomar896/api_get-_or_post_data)  
-  ربط pi  مباشر بين موقع المزادات ونظام Odoo  
+  ربط pi  مباشر بين موقع المزادات ونظام Odoo
+- 🌐 [مديول استخراج بيانات السيرفر - HOST ](https://github.com/oooomar896/Module-get-data-from-Db-to-view-code-html/tree/main)  
+  استخراج بيانات اي سيرفر ب استخدام كل منip/host, ssh port, username, passWORD
 
 ---
-
 ### 💬 تواصل معي  
-
 مرحبًا بكل فرص التعاون، المشاريع الجديدة، أو تبادل الخبرات 👋  
 📧 oooomar123450@gmail.com  
 📞 +966-558539717  
