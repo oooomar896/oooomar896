@@ -44,7 +44,7 @@
 ---
 ### 🌐 المواقع ولوحات التحكم  
 
-- 🌍 [الرئية العقارية للإستشارات العقارية  - https://real-estateconsultations.netlify.app/](https://real-estateconsultations.netlify.app/) *(منصة موثوقة للإستشارات العقارية)*
+- 🌍 [الرئية العقارية للإستشارات العقارية](https://real-estateconsultations.netlify.app/) *(منصة موثوقة للإستشارات العقارية)*
 
 - 🌍 [مزادلي - Mzadly.com](https://mzadly.com) *(منصة مزادات إلكترونية)*
 - 🌍 [مزادلي Api ](https://github.com/oooomar896/Api_auction)) *(منصة POST AMD GET ل المزادات إلكترونية)*  
