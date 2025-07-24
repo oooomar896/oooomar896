@@ -43,6 +43,9 @@
 - 🔧 [تطبيق الملاحظات](https://github.com/oooomar896/note2)  
 ---
 ### 🌐 المواقع ولوحات التحكم  
+
+- 🌍 [الرئية العقارية للإستشارات العقارية  - https://real-estateconsultations.netlify.app/](https://real-estateconsultations.netlify.app/) *(منصة موثوقة للإستشارات العقارية)*
+
 - 🌍 [مزادلي - Mzadly.com](https://mzadly.com) *(منصة مزادات إلكترونية)*
 - 🌍 [مزادلي Api ](https://github.com/oooomar896/Api_auction)) *(منصة POST AMD GET ل المزادات إلكترونية)*  
 - 🌍 [ملهمة العقارية - Molhimah.sa](https://molhimah.sa) *(موقع عقاري احترافي)*  
