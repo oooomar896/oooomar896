@@ -22,9 +22,9 @@
 
 ### 🛠️ المهارات التقنية | Tech Stack  
 
-- **تطوير التطبيقات:** Flutter (Android & iOS)  
+- **تطوير التطبيقات:** Flutter, React ,Native ,next (Android & iOS & Web)  
 - **أنظمة المؤسسات ERP:** Odoo (برمجة موديولات، الأتمتة)  
-- **البرمجة الخلفية:** Python, PHP, Firebase  
+- **البرمجة الخلفية:** Python, PHP, Firebase, node
 - **الواجهات الأمامية:** HTML, CSS, JavaScript  
 - **قواعد البيانات:** PostgreSQL, MySQL  
 
