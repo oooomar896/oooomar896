@@ -10,68 +10,86 @@
 
 ---
 
-### 🚀 نبذة عني | About Me  
+## 🚀 نبذة عني | About Me
 
-مطور شغوف ومتخصص في **تطوير التطبيقات باستخدام Flutter** و**بناء أنظمة ERP متكاملة عبر Odoo**. أساعد المؤسسات في بناء حلول تقنية عالية الجودة، سهلة الاستخدام، وقابلة للتطوير.  
-أتميز بالكود النظيف، والهندسة البرمجية المنظمة، واحترافية إدارة المشاريع والفرق، مع إيمان عميق بأهمية الإبداع والانضباط في بيئات العمل الديناميكية.
+مطور تطبيقات شغوف بخبرة واسعة في **Flutter** و**Odoo**، أمتلك القدرة على بناء أنظمة قوية ومرنة للمؤسسات، مع التركيز على الأداء، سهولة الاستخدام، وقابلية التوسع.  
+أتمتع بخبرة عملية في تصميم حلول مخصصة، إدارة المشاريع، وتنظيم فرق العمل، وأسعى دومًا لتقديم قيمة حقيقية عبر الابتكار والانضباط التقني.
 
-> 📌 خبرة قوية في تنظيم فرق العمل عبر أدوات مثل Obsidian  
-> 📌 متابعة دقيقة لمهام المشاريع الموكلة والالتزام تحت كافة الظروف
+> ✅ شغف بالحلول الإبداعية وسلاسة تجربة المستخدم  
+> ✅ التزام صارم بالمواعيد والمهام تحت أي ظروف  
+> ✅ تنظيم العمل باستخدام أدوات مثل Obsidian وTrello
 
 ---
 
-### 🛠️ المهارات التقنية | Tech Stack  
+## 🛠️ المهارات التقنية | Tech Stack
 
-- **تطوير التطبيقات:** Flutter, React ,Native ,next (Android & iOS & Web)  
-- **أنظمة المؤسسات ERP:** Odoo (برمجة موديولات، الأتمتة)  
-- **البرمجة الخلفية:** Python, PHP, Firebase, node
+- **تطوير التطبيقات:** Flutter, React, React Native, Next.js *(Android, iOS, Web)*  
+- **أنظمة ERP:** Odoo *(تطوير موديولات، الأتمتة، التقارير)*  
+- **البرمجة الخلفية:** Python, PHP, Node.js, Firebase  
 - **الواجهات الأمامية:** HTML, CSS, JavaScript  
 - **قواعد البيانات:** PostgreSQL, MySQL  
 
 ---
-### 📲 التطبيقات المنشورة على Google Play  
+
+## 🎓 التعليم | Education
+
+**بكالوريوس تقنية المعلومات – جامعة المدينة العالمية (MEDIU)**  
+🌐 [رابط الموقع الرسمي للجامعة](https://www.mediu.edu.my/ar/)
+
+---
+
+## 📲 التطبيقات المنشورة على Google Play
 
 - 🔗 [تطبيق المقايضة - Swap App](https://play.google.com/store/apps/details?id=com.molhimah.swap)  
 - 🔗 [مزادات لايف - Auction Live](https://play.google.com/store/apps/details?id=com.mulhmah_auctionlive)  
 - 🔗 [التطبيق الخيري - Charity App](https://play.google.com/store/apps/details?id=com.charity_show)  
+
 ---
-### 💻 تطبيقاتي مفتوحة المصدر | Open Source Projects  
+
+## 💻 تطبيقات مفتوحة المصدر | Open Source Projects
+
 - 🔧 [تطبيق القهوة (UI/Animation)](https://github.com/oooomar896/coffee_app)  
 - 🔧 [متجر الكهرباء](https://github.com/oooomar896/electrical_store_app)  
 - 🔧 [الآلة الحاسبة](https://github.com/oooomar896/Calculter)  
 - 🔧 [تطبيق اللاعبين](https://github.com/oooomar896/players)  
 - 🔧 [تطبيق الملاحظات](https://github.com/oooomar896/note2)  
+
 ---
-### 🌐 المواقع ولوحات التحكم  
 
-- 🌍 [الرئية العقارية للإستشارات العقارية -""](https://real-estateconsultations.netlify.app/) *(منصة موثوقة للإستشارات العقارية)*
+## 🌐 مواقع إلكترونية ولوحات تحكم
 
-- 🌍 [مزادلي - Mzadly.com](https://mzadly.com) *(منصة مزادات إلكترونية)*
-- 🌍 [مزادلي Api ](https://github.com/oooomar896/Api_auction)) *(منصة POST AMD GET ل المزادات إلكترونية)*  
+- 🌍 [الرؤية العقارية](https://real-estateconsultations.netlify.app) *(منصة للاستشارات العقارية)*  
+- 🌍 [مزادلي - Mzadly.com](https://mzadly.com) *(منصة مزادات إلكترونية)*  
+- 🌍 [مزادلي API](https://github.com/oooomar896/Api_auction) *(واجهة برمجية للمزادات)*  
 - 🌍 [ملهمة العقارية - Molhimah.sa](https://molhimah.sa) *(موقع عقاري احترافي)*  
 - 🖥️ [لوحة تحكم تطبيق المقايضة](https://github.com/oooomar896/-dashboard-swap)  
 - 🖥️ [لوحة تحكم مزاد لايف](https://github.com/oooomar896/-dashboard-auction-live)  
+
 ---
-### ⚙️ موديولات Odoo المخصصة  
+
+## ⚙️ موديولات Odoo مخصصة
+
 - 🏢 [نظام إدارة الأملاك](https://github.com/oooomar896/module-Real-state)  
-  لإدارة العقارات، العقود، والمستأجرين  
+  *إدارة العقارات، العقود، المستأجرين*  
 - 🏢 [نظام حجز القاعات](https://github.com/oooomar896/module-room-bookung)  
-  لحجز قاعات الاجتماعات مع تقويم وجدولة دقيقة  
-- 👨‍💼 [نظام إدارة الموارد البشرية](https://github.com/oooomar896/mangemen_HR)  
-  لإدارة الموظفين، الحضور، الإجازات، والمزيد  
-- 💰 [منصة المزادات](https://github.com/oooomar896/Website_Auction_odoo)  
-  ربط مباشر بين موقع المزادات ونظام Odoo  
-- 💰 [منصة المزادات- api](https://github.com/oooomar896/api_get-_or_post_data)  
-  ربط pi  مباشر بين موقع المزادات ونظام Odoo
-- 🌐 [مديول استخراج بيانات السيرفر - HOST ](https://github.com/oooomar896/Module-get-data-from-Db-to-view-code-html/tree/main)  
-  استخراج بيانات اي سيرفر ب استخدام كل منip/host, ssh port, username, passWORD
-- 🌐 [مديول استخراج بيانات - db odoo localhost ](https://github.com/oooomar896/Module-get-data-from-db-odoo)  
-  استخراج بيانات db odoo localhost
-
+  *تقويم وجدولة الاجتماعات*  
+- 👨‍💼 [نظام الموارد البشرية](https://github.com/oooomar896/mangemen_HR)  
+  *إدارة الموظفين، الحضور، الإجازات*  
+- 💰 [نظام المزادات](https://github.com/oooomar896/Website_Auction_odoo)  
+  *ربط موقع المزادات مع Odoo*  
+- 🔄 [نظام المزادات - API](https://github.com/oooomar896/api_get-_or_post_data)  
+  *تكامل REST API مع Odoo*  
+- 🌐 [استخراج بيانات من السيرفر](https://github.com/oooomar896/Module-get-data-from-Db-to-view-code-html/tree/main)  
+  *استخدام SSH لاسترجاع بيانات السيرفر*  
+- 🌐 [استخراج بيانات Odoo Localhost](https://github.com/oooomar896/Module-get-data-from-db-odoo)  
+  *استعلام بيانات قاعدة البيانات المحلية*
 
 ---
-### 💬 تواصل معي  
-مرحبًا بكل فرص التعاون، المشاريع الجديدة، أو تبادل الخبرات 👋  
-📧 oooomar123450@gmail.com  
-📞 +966-558539717  
+
+## 💬 تواصل معي
+
+مرحبًا بأي فرصة شراكة، عمل حر، أو تعاون في مشاريع تطوير برمجية 👋  
+📧 **oooomar123450@gmail.com**  
+📞 **+966-55-853-9717**  
 🔗 [LinkedIn](https://linkedin.com/in/omar-hamid-288385235) | [GitHub](https://github.com/oooomar896)
+
