@@ -1,9 +1,9 @@
-# 👨‍💻 [Omar Hamid Al-Odini](https://inspiring-daifuku-9b00a2.netlify.app/)
+#  [Omar Hamid Al-Odini](https://inspiring-daifuku-9b00a2.netlify.app/)
 **Expert in Application and Accounting Systems Solutions**
 
-📍 **Riyadh, Saudi Arabia**  
-📧 oooomar123450@gmail.com  
-📱 +966-55-853-9717  
+ **Riyadh, Saudi Arabia**  
+ oooomar123450@gmail.com  
+ +966-55-853-9717  
 🔗 [LinkedIn](https://linkedin.com/in/omar-hamid-288385235) | [GitHub](https://github.com/oooomar896)
 
 ---
