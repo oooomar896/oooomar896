@@ -43,6 +43,10 @@ I have hands-on experience in custom solution design, project management, and te
 - 🔗 [Swap App](https://play.google.com/store/apps/details?id=com.molhimah.swap) — *Bartering Platform*  
 - 🔗 [Auction Live](https://play.google.com/store/apps/details?id=com.mulhmah_auctionlive) — *Online Auction Platform*  
 - 🔗 [Charity App](https://play.google.com/store/apps/details?id=com.charity_show) — *Charitable Donations Platform*  
+- 🔗 [Quran app](https://play.google.com/store/apps/details?id=quran.alsababah.com) — *Quran 3d*  
+- 🔗 [مساعدك ل توصيل الطلبات](yourhelp.alsababah.com) — *Quran 3d*  
+
+
 
 ---
 
@@ -63,7 +67,11 @@ I have hands-on experience in custom solution design, project management, and te
 - 🌍 [Mzadly API](https://github.com/oooomar896/Api_auction) — *Auction API Backend*  
 - 🌍 [Molhimah.sa](https://molhimah.sa) — *Professional Real Estate Website*  
 - 🖥️ [Swap App Dashboard](https://github.com/oooomar896/-dashboard-swap)  
-- 🖥️ [Auction Live Dashboard](https://github.com/oooomar896/-dashboard-auction-live)  
+- 🖥️ [Alsababah.com](https://alsababah.com/)  
+- 🖥️ [مساعدك](yourhelp.alsababah.com)  
+- 🖥️ [منصة القران الكريم ل الصم](https://quran.alsababah.com/)  
+- 🖥️ [منصة تحفيظ القران الكريم ل الصم](https://memorizer.alsababah.com/)  
+- 🖥️ [ال صالح العقارية ](https://alsaleh-gr.com/)  
 
 ---
 
