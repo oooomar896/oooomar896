@@ -67,7 +67,10 @@ I have hands-on experience in custom solution design, project management, and te
 - 🌍 [Mzadly API](https://github.com/oooomar896/Api_auction) — *Auction API Backend*  
 - 🌍 [Molhimah.sa](https://molhimah.sa) — *Professional Real Estate Website*  
 - 🖥️ [Swap App Dashboard](https://github.com/oooomar896/-dashboard-swap)  
+- 🖥️ [باكورة اعمال](https://bacura.sa/)  
 - 🖥️ [Alsababah.com](https://alsababah.com/)  
+- 🖥️ [مساعد البحث للبحوثات العلمية](https://res-assistant.com/)  
+- 🖥️ [باكورة الاستثمارية](https://b.bacura.sa/)  
 - 🖥️ [مساعدك](yourhelp.alsababah.com)  
 - 🖥️ [منصة القران الكريم ل الصم](https://quran.alsababah.com/)  
 - 🖥️ [منصة تحفيظ القران الكريم ل الصم](https://memorizer.alsababah.com/)  
