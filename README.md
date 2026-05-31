@@ -99,6 +99,7 @@ I specialize in building robust and scalable enterprise systems with a focus on:
 - **[Molhimah.sa](https://molhimah.sa)** - Professional Real Estate
 - **[Alsaleh Real Estate](https://alsaleh-gr.com/)** - Property Management
 - **[Bacura.sa](https://bacura.sa/)** - Investment Platform
+- **[jzl.net.sa/](https://jzl.net.sa/)** - A marketing platform for technical solutions
 
 ### 📊 Dashboards & Admin Panels
 - **[Swap App Dashboard](https://github.com/oooomar896/-dashboard-swap)** - Admin Control Panel
